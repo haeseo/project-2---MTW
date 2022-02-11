@@ -1,0 +1,8 @@
+react(client)+node.js(server)
+- https://github.com/HanHoing/puppy_nw.git
+spring 
+- https://github.com/HanHoing/puppy_nw_spring.git
+
+실행 순서: spring프로젝트 실행 -> react(client)+node.js(server)프로젝트에서 cd server -> node index.js 
+		-> cd client -> npm start
+* 현재 RDS 중지시켜서 타 DB로 연결해야함 
